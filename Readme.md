@@ -59,11 +59,6 @@ O homem da gravata Verde está ao lado de Tiago.
 Quem gosta de Basquete está exatamente à esquerda de quem tem 28 anos.
 
 
-📚 Observação
-
-Este projeto demonstra o uso de lógica declarativa em Prolog para resolver problemas dedutivos complexos de forma estruturada e legível — ideal para estudos de raciocínio lógico, programação declarativa e inteligência artificial simbólica.
-
-
 🧑‍💻 Créditos
 
 Desenvolvido por Sabrina Costa, como exercício de raciocínio lógico e modelagem em Prolog.
